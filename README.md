@@ -1,0 +1,1 @@
+# cpp-function-to-return-the-middle-node-data-to-the-main
